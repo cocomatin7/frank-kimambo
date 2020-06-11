@@ -235,7 +235,7 @@ http://auth.dmtn.tv:8080/PKCXbRXfgU/oWIPb0rCbn/183137
 #EXTINF:-1 tvg-logo="https://azamtv.co.tz/tan/thumb/c/124/70/channels/channel_image1444120500.png" group-title="Tanzania",Sinema Zetu
 
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/06/06/DStv_TBC1_Logo_4-3_for_light_background_001_lrg.png" group-title="Tanzania",TBC 1
-http://ms-azure-video.gslb.startimestv.com/live/TBC_1_908_500_480x360_194046/playlist.m3u8
+http://auth.dmtn.tv:8080/PKCXbRXfgU/oWIPb0rCbn/183137
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/vynfli1G2Z/maxresdefault.jpg" group-title="Tanzania",Channel Ten 
 http://hls-pull-switchinternational.speedws.com/live/test1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2019/09/17/Clouds_Plus_Logo_4-3_(002)_lrg.png" group-title="Tanzania", Clouds plus
