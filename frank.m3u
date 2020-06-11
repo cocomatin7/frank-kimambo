@@ -52,32 +52,33 @@ http://ms-azure-video.gslb.startimestv.com/live/ST_NOVELA_E_1026_500_480x360_265
 http://ms-azure-video.gslb.startimestv.com/live_record/ST_NOVELA_E_PLUS_631_250_320x240_7779/playlist.m3u8
 
 
+
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/04/DStv_SS_Blitz_light_background_4-3_002_lrg.png" group-title="DSTV", SuperSport blitz  
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/48736
+http://auth.dmtn.tv:8080/PKCXbRXfgU/oWIPb0rCbn/183170
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/03/DStv_SS1_light_background_4-3_004_lrg.png" group-title="DSTV", SuperSport 1 HD
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/48748
+http://auth.dmtn.tv:8080/PKCXbRXfgU/oWIPb0rCbn/183171
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/03/DStv_SS2_light_background_4-3_001_lrg.png" group-title="DSTV", SuperSport 2 HD
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/48744
+http://auth.dmtn.tv:8080/PKCXbRXfgU/oWIPb0rCbn/183172
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/04/DStv_SS3_light_background_4-3_002_lrg.png" group-title="DSTV", SuperSport 3 HD
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/48743
+http://auth.dmtn.tv:8080/PKCXbRXfgU/oWIPb0rCbn/183173
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/03/DStv_SS4_light_background_4-3_001_lrg.png" group-title="DSTV", SuperSport 4 HD
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/48742
+http://auth.dmtn.tv:8080/PKCXbRXfgU/oWIPb0rCbn/183174
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/04/DStv_SS5_light_background_4-3_005_lrg.png" group-title="DSTV", SuperSport 5 HD
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/48741
+http://auth.dmtn.tv:8080/PKCXbRXfgU/oWIPb0rCbn/183175
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/04/DStv_SS6_light_background_4-3_002_lrg.png" group-title="DSTV", SuperSport 6 HD
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/48740
+http://auth.dmtn.tv:8080/PKCXbRXfgU/oWIPb0rCbn/183176
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/04/DStv_SS7_light_background_4-3_001_lrg.png" group-title="DSTV", SuperSport 7 HD
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/48739
+http://auth.dmtn.tv:8080/PKCXbRXfgU/oWIPb0rCbn/183177
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/04/DStv_SS8_light_background_4-3_lrg.png" group-title="DSTV", SuperSport 8 HD
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/48738
+http://auth.dmtn.tv:8080/PKCXbRXfgU/oWIPb0rCbn/183178
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/04/DStv_SS9_light_background_4-3_001_lrg.png" group-title="DSTV", SuperSport 9 HD
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/48737
+http://auth.dmtn.tv:8080/PKCXbRXfgU/oWIPb0rCbn/183179
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/04/DStv_SS10_light_background_4-3_lrg.png" group-title="DSTV", SuperSport 10 HD
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55655
+http://auth.dmtn.tv:8080/PKCXbRXfgU/oWIPb0rCbn/183180
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/04/DStv_SS11_light_background_4-3_002_lrg.png" group-title="DSTV", SuperSport 11 HD
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55656
+http://auth.dmtn.tv:8080/PKCXbRXfgU/oWIPb0rCbn/183181
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/04/DStv_SS12_light_background_4-3_001_lrg.png" group-title="DSTV", SuperSport 12 HD
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55657
+http://auth.dmtn.tv:8080/PKCXbRXfgU/oWIPb0rCbn/183182
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/04/DStv_SS1_Maximo_light_background_4-3_002_lrg.png" group-title="DSTV", SuperSport 1 Maximo
 http://m3ulink.com:7899/iamhakimziyech1/elton1994/48735
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2019/07/30/SuperSlam_Logo-4-3_LightBackground_lrg.png " group-title="DSTV",SuperSlam
@@ -226,11 +227,11 @@ http://m3ulink.com:7899/iamhakimziyech1/elton1994/55299
 #EXTINF:-1 tvg-logo="https://azamtv.co.tz/tan/thumb/c/124/70/channels/channel_image1569411147.jpg" group-title="Tanzania",Azam UTV
 
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2019/04/08/ZanzibarTV_logo_4-3_001_lrg.png" group-title="Tanzania",ZBC 
-
+http://auth.dmtn.tv:8080/PKCXbRXfgU/oWIPb0rCbn/183140
 #EXTINF:-1 tvg-logo="https://azamtv.co.tz/tan/thumb/c/124/70/channels/channel_image1445504028.jpg" group-title="Tanzania",ZBC 2 
 
 #EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/image/product/eab7858b-6907-441a-b81a-7ffb1d6899b0.jpg?l=320" group-title="Tanzania",Wasafi tv
-http://ms-azure-video.gslb.startimestv.com/live/Wasafi_968_500_320x240_196856/playlist.m3u8
+http://auth.dmtn.tv:8080/PKCXbRXfgU/oWIPb0rCbn/183137
 #EXTINF:-1 tvg-logo="https://azamtv.co.tz/tan/thumb/c/124/70/channels/channel_image1444120500.png" group-title="Tanzania",Sinema Zetu
 
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/06/06/DStv_TBC1_Logo_4-3_for_light_background_001_lrg.png" group-title="Tanzania",TBC 1
