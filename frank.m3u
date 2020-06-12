@@ -903,27 +903,29 @@ https://cdn-laos.workpoint.news/uk-skysports-mix_480/index.m3u8
 http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1548640033
 #EXTINF:-1 tvg-id="Bahrain Sport 1 ARB" tvg-name="Bahrain Sport 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/G9BMhDS.png" tvg-country="BH" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Sports",Bahrain Sport 1
 http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1558393494
+
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports1.qa.png" group-title="Sports",beIN Sports 1
-
+http://tv.ebox.live:8080/live/bein-sports-1.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports2.qa.png" group-title="Sports",beIN Sports 2
-
+http://tv.ebox.live:8080/live/bein-sports-2.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports3.qa.png" group-title="Sports",beIN Sports 3
-
+http://tv.ebox.live:8080/live/bein-sports-3.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports4.qa.png" group-title="Sports",beIN Sports 4
-
+http://tv.ebox.live:8080/live/bein-sports-4.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports5.qa.png" group-title="Sports",beIN Sports 5
-
+http://tv.ebox.live:8080/live/bein-sports-5.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports6.qa.png" group-title="Sports",beIN Sports 6
-
+http://tv.ebox.live:8080/live/bein-sports-6.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports7.qa.png" group-title="Sports",beIN Sports 7
-
+http://tv.ebox.live:8080/live/bein-sports-7.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports8.qa.png" group-title="Sports",beIN Sports 8
-
+http://tv.ebox.live:8080/live/bein-sports-8.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports9.qa.png" group-title="Sports",beIN Sports 9
-
+http://tv.ebox.live:8080/live/bein-sports-9.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports10.qa.png" group-title="Sports",beIN Sports 10
-
+http://tv.ebox.live:8080/live/bein-sports-10.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports11.qa.png" group-title="Sports",beIN Sports 11
+http://tv.ebox.live:8080/live/bein-sports-eng-11.m3u8
 
 #EXTINF:-1 tvg-id="Abu Dhabi Sports ARB" tvg-name="Abu Dhabi Sports ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Sports",Abu Dhabi Sports 1
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
