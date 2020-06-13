@@ -25,14 +25,34 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 https://loveworldusa-lh.akamaihd.net/i/lwusa2_1@514985/master.m3u8
 #EXTINF:-1 group-title="English",Sky News
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
-#EXTINF:-1 ,AXN HD
-http://srvuhd.top:8080/live/smart02/smart02/37135.m3u8
-#EXTINF:-1 ,AXN HD ¹
-http://srvuhd.top:8080/live/smart02/smart02/37556.m3u8
-#EXTINF:-1 ,AXN ¹
-http://srvuhd.top:8080/live/smart02/smart02/37578.m3u8
-
-
+#EXTINF:-1 group-title="English",23 ABC (KERO)
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
+#EXTINF:-1 ,News Center 7 (Ohio)
+http://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8
+#EXTINF:-1 ,Peace TV
+http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:-1 group-title="English",ABC ME
+https://i.mjh.nz/au/Brisbane/tv.101002210224.m3u8
+#EXTINF:-1 group-title="English",ABC News Digital 1
+https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8
+#EXTINF:-1 group-title="English",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 group-title="English",C-Span
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
+#EXTINF:-1 group-title="English",C-Span 2
+https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
+#EXTINF:-1 group-title="English",C-Span 3
+https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
+#EXTINF:-1 group-title="English",Catholic TV
+http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/master.m3u8
+#EXTINF:-1 group-title="English",Emmanuel TV
+http://api.new.livestream.com/accounts/23202872/events/7200883/live.m3u8
+#EXTINF:-1 group-title="English",NBC
+http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:-1 group-title="English",VoA TV
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
+#EXTINF:-1 group-title="USA",NBC Sports net.
+http://vvn.neoredi.com/iptv/ch3516?code=170140343781561&key=50917
 
 
 
