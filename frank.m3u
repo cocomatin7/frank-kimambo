@@ -1,19 +1,3 @@
-#EXTINF:-1,TEST1
-http://magco.rip/live/41246671289321/41604451921808/78993.m3u8
-#EXTINF:-1,TEST 2
-http://magco.rip/live/41246671289321/41604451921808/78994.m3u8
-#EXTINF:-1,TEST 3
-http://magco.rip/live/41246671289321/41604451921808/78995.m3u8
-#EXTINF:-1,TEST 4
-http://magco.rip/live/41246671289321/41604451921808/78996.m3u8
-#EXTINF:-1,TEST 5
-http://magco.rip/live/41246671289321/41604451921808/78997.m3u8
-#EXTINF:-1,TEST 6
-http://magco.rip/live/41246671289321/41604451921808/78998.m3u8
-#EXTINF:-1,TEST 7
-http://magco.rip/live/41246671289321/41604451921808/78999.m3u8
-#EXTINF:-1,TEST 8
-http://magco.rip/live/41246671289321/41604451921808/79000.m3u8
 
 
 
@@ -180,126 +164,49 @@ http://magco.rip/live/41246671289321/41604451921808/79004.m3u8
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2019/07/30/SuperSlam_Logo-4-3_LightBackground_lrg.png " group-title="DSTV",SuperSlam
 
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/05/02/DStv_Ginx_Logo_4-3_light_background_lrg.png" group-title="DSTV", Ginx eSports TV
-http://magco.rip/live/41246671289321/41604451921808/79014.m3u8
+http://magco.rip/live/41246671289321/41604451921808/79006.m3u8
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2018/01/29/1Magic_dotcom_4-3_light_background_lrg.png" group-title="DSTV", 1Magic
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55418
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2019/01/24/Vuzu_Logo_4-3_LightBackground_001_lrg.png" group-title="DSTV", Vuzu
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55420
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2018/09/21/TNT_logo_4-3_001_lrg.png" group-title="DSTV", TNT
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55393
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2019/05/24/Soweto_TV_4-3_LightBackground_001_lrg.png" group-title="DSTV", Soweto Tv
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55369
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/12/06/Soundcity_new4-3logo_lrg.png" group-title="DSTV", Sound City
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55368
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/04/02/TRACEGospel_logo_4-3_001_lrg.png" group-title="DSTV", Trace Gospel
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/33550
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2018/03/07/emmanuel_logo_4-3-lightbackground_001_lrg.png" group-title="DSTV", Emmanuel Tv
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/8218
+http://api.new.livestream.com/accounts/23202872/events/7200883/live.m3u8
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/05/09/DStv_ComedyCentral_new4-3logo_001_lrg.png" group-title="DSTV", ComedyCentral
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55343
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2018/03/06/1KZN_logo_4-3_001_lrg.png" group-title="DSTV", 1KZN
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55339
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2019/02/14/Fox_4-3_001_lrg.png" group-title="DSTV", FOX
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55324
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/09/29/DStv_FoxLife_new4-3logo-light_lrg.png" group-title="DSTV", FOX LIFE
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55323
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/07/DStv_OneGospel_light_background_4-3_lrg.png" group-title="DSTV", One Gospel
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55422
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/07/05/dstv_ChannelO_light_background_4-3_lrg.png" group-title="DSTV", Channel O
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55426
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/08/25/DStv_MaishaMagicBongo_new4-3logo_lrg.png" group-title="DSTV",MaishaMagicBongo
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55291
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/03/18/Maisha_Magic_Plus_4-3_lrg.png" group-title="DSTV",MaishaMagicplus
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55289
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/10/20/Africa-MAgic-Igbo_new4-3logo_lrg.png" group-title="DSTV", Africa Magic Igbo
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55290
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/10/20/AfricaMagic_Urban_new4-3logo_003_lrg.png" group-title="DSTV", Africa Magic Urban
-http://magco.rip/live/41246671289321/41604451921808/79021.m3u8
+http://magco.rip/live/41246671289321/41604451921808/79014.m3u8
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/10/20/AfricaMagic_Yoruba_new4-3logo_001_lrg.png" group-title="DSTV", Africa Magic Yoruba
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55288
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/10/20/AfricaMagic_Showcase_new4-3logo_003_lrg.png" group-title="DSTV", Africa Magic Showcase
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55287
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/10/20/AfricaMagic-Hausa_new4-3logo_lrg.png" group-title="DSTV", Africa Magic Hausa
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55286
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/10/20/AfricaMagic-Family_Family_new4-3logo_Dark_002_lrg.png" group-title="DSTV", Africa Magic Family
-http://magco.rip/live/41246671289321/41604451921808/79016.m3u8
+http://magco.rip/live/41246671289321/41604451921808/79012.m3u8
+
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/10/20/Africa-Magic-Epic_new4-3logo_003_lrg.png" group-title="DSTV", Africa Magic Epic
-http://magco.rip/live/41246671289321/41604451921808/79015.m3u8
+http://magco.rip/live/41246671289321/41604451921808/79011.m3u8
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/05/09/DStv_Telemundo_new4-3logo_002_lrg.png" group-title="DSTV", Telemundo
-http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42813
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/05/09/DStv_MNetMoviesActionPlus_new4-3logo_001_lrg.png" group-title="DSTV", Mnet Movies Action Plus
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55333
 #EXTINF:-1 tvg-logo="https://cdn.dstv.com/www.dstv.com/dstvchannels//New_logos/MMaction_display.jpg" group-title="DSTV", Mnet Movies Action 
-http://magco.rip/live/41246671289321/41604451921808/79018.m3u8
+http://magco.rip/live/41246671289321/41604451921808/79007.m3u8
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/04/03/DStv_Gen_DStv_New_Logo_4-3_light_background_001_lrg.png" group-title="DSTV", Mnet Movies Blackout
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55285
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/11/17/dstv_MoviesZone_4-3_lightbackground_lrg.png" group-title="DSTV", Mnet Movies zone
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55415
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2018/05/30/Mnet_City_Logo_Light_Background_4_3_001_lrg.png" group-title="DSTV", Mnet City
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55414
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/01/DStvNowWeb_M-NetPlus1_new4-3logo-dark_lrg.png" group-title="DSTV", Mnet Plus 1
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55402
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/05/19/DStv_MNet_new4-3logo_004_lrg.png" group-title="DSTV", Mnet 
-http://magco.rip/live/41246671289321/41604451921808/79017.m3u8
+http://magco.rip/live/41246671289321/41604451921808/79009.m3u8
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/10/12/M-Net-Movies-ALL-STARS_002_lrg.png" group-title="DSTV", Mnet Movies All Stars
-http://magco.rip/live/41246671289321/41604451921808/79019.m3u8
+http://magco.rip/live/41246671289321/41604451921808/79008.m3u8
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/10/12/M-Net-Movies-SMILE_006_lrg.png" group-title="DSTV", Mnet Movies Smile
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55395
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/10/12/M-Net-Movies-PREMIERE_006_lrg.png" group-title="DSTV", Mnet Movies PREMIERE
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55394
 #EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/03/25/M-Net_Binge_4-3_lrg.png" group-title="DSTV", Mnet Binge
-
-
-#EXTINF:-1,MZANSI MAGIC
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55398
-#EXTINF:-1,MZANSI WETHU
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55413
-#EXTINF:-1,MZANSI BIOSKOP
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55412
-#EXTINF:-1,MZANSI MAGIC MUSIC
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55331
-#EXTINF:-1,ROK
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55404
-#EXTINF:-1,ETV
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55346
-#EXTINF:-1,ETV EXTRA
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55347
-#EXTINF:-1,BET
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55322
-#EXTINF:-1,MTV BASE
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55361
-#EXTINF:-1,UNIVERSAL TV
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55329
-#EXTINF:-1,STUDIO UNIVERSAL
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55330
-#EXTINF:-1,STAR LIFE
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55371
-#EXTINF:-1,TSHWANE TV
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55376
-#EXTINF:-1,TV MALL
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55377
-#EXTINF:-1,MIND SET V
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55358
-#EXTINF:-1,MOJA LOVE
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55359
-#EXTINF:-1,FAITH
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/16102
-#EXTINF:-1,ETOONZ
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55348
-#EXTINF:-1,EMOVIES 
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55334
-#EXTINF:-1,EMOVIES EXTRA
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55335
-#EXTINF:-1,DAYSTAR
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55344
-#EXTINF:-1,DUMISA
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55345
-#EXTINF:-1,ZEE WORLD
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55317
-#EXTINF:-1,EVA ENGLISH
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55319
-#EXTINF:-1,AFRO MUSIC POP
-http://m3ulink.com:7899/iamhakimziyech1/elton1994/55299
 
 
 
@@ -720,7 +627,7 @@ http://livecdnh3.tvanywhere.ae/hls/duck/index.m3u8
 https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 tvg-logo="https://digitalrussia.tv/upload/files/48266978_525772611258059_7076947931516895232_n.png" group-title="Kids",FAN TV
 http://195.9.195.3:8080/hls/157239.m3u8
-#EXTINF:-1 ch-id="NICK (UK)" tvg-logo="https://cdn.collider.com/wp-content/uploads/2015/01/nickelodeon-logo-slice.jpg" group-title="Kids",(EUROPE) 
+#EXTINF:-1 ch-id="NICK (UK)" tvg-logo="https://cdn.collider.com/wp-content/uploads/2015/01/nickelodeon-logo-slice.jpg" group-title="Kids",nickelodeon
 http://magco.rip/live/41246671289321/41604451921808/48825.m3u8 
 
 #EXTINF:-1 ch-id="DISCOVERY REAL TIME (ZA)" tvg-logo="https://2.bp.blogspot.com/-RT2w91jSwtk/W41zMLGBPcI/AAAAAAABPug/dywx3kTBcKAFGtIqXz3OOkG8KUCZLwB8gCLcBGAs/s1600/REAL%2BTIME%2BLOGO%255B1%255D.png" group-title="Learning",real time
@@ -930,9 +837,7 @@ http://43.251.86.2:8080/hls/channel_2.m3u8
 #EXTINF:-1 tvg-logo="https://www.mediainfoline.com/wp-content/uploads/2017/07/DSPORTS-LOGO.jpg" group-title="Sports",D Sports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sports",beIN Sports Asia 1
-https://edgejt6.useetv.com/joss/15/bein1/chunklist_w569980004_b684100_sleng_enc=s0kUt6Guh4KDF-wYLykbZg.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Sports",beIN Sports Asia 2
-https://cdnbal1.useetv.com/joss/15/bein2/chunklist_w1901250353_b684100_sleng_enc=5cE0loIMo_OWpCpoD6CJEA.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png" group-title="Sports",Fox Sports
 https://cdn-laos.workpoint.news/sd-foxsports_480/index.m3u8
 #EXTINF:-1 tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="Sports",Fox Sports 2 
@@ -952,28 +857,52 @@ http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1548640033
 #EXTINF:-1 tvg-id="Bahrain Sport 1 ARB" tvg-name="Bahrain Sport 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/G9BMhDS.png" tvg-country="BH" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Sports",Bahrain Sport 1
 http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1558393494
 
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports1.qa.png" group-title="Sports",beIN Sports 1
-http://tv.ebox.live:8080/live/bein-sports-1.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports2.qa.png" group-title="Sports",beIN Sports 2
-http://tv.ebox.live:8080/live/bein-sports-2.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports3.qa.png" group-title="Sports",beIN Sports 3
-http://tv.ebox.live:8080/live/bein-sports-3.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports4.qa.png" group-title="Sports",beIN Sports 4
-http://tv.ebox.live:8080/live/bein-sports-4.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports5.qa.png" group-title="Sports",beIN Sports 5
-http://tv.ebox.live:8080/live/bein-sports-5.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports6.qa.png" group-title="Sports",beIN Sports 6
-http://tv.ebox.live:8080/live/bein-sports-6.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports7.qa.png" group-title="Sports",beIN Sports 7
-http://tv.ebox.live:8080/live/bein-sports-7.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports8.qa.png" group-title="Sports",beIN Sports 8
-http://tv.ebox.live:8080/live/bein-sports-8.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports9.qa.png" group-title="Sports",beIN Sports 9
-http://tv.ebox.live:8080/live/bein-sports-9.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports10.qa.png" group-title="Sports",beIN Sports 10
-http://tv.ebox.live:8080/live/bein-sports-10.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports11.qa.png" group-title="Sports",beIN Sports 11
-http://tv.ebox.live:8080/live/bein-sports-eng-11.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports1.qa.png" group-title="Sports",beIN Sports 1 HD
+http://magco.rip/live/41246671289321/41604451921808/4412.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports2.qa.png" group-title="Sports",beIN Sports 2 HD
+http://magco.rip/live/41246671289321/41604451921808/23358.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports3.qa.png" group-title="Sports",beIN Sports 3 HD
+http://magco.rip/live/41246671289321/41604451921808/189.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports4.qa.png" group-title="Sports",beIN Sports 4 HD
+http://magco.rip/live/41246671289321/41604451921808/266.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports5.qa.png" group-title="Sports",beIN Sports 5 HD
+http://magco.rip/live/41246671289321/41604451921808/267.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports6.qa.png" group-title="Sports",beIN Sports 6 HD
+http://magco.rip/live/41246671289321/41604451921808/268.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports7.qa.png" group-title="Sports",beIN Sports 7 HD
+http://magco.rip/live/41246671289321/41604451921808/269.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports8.qa.png" group-title="Sports",beIN Sports 8 HD
+http://magco.rip/live/41246671289321/41604451921808/270.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports9.qa.png" group-title="Sports",beIN Sports 9 HD
+http://magco.rip/live/41246671289321/41604451921808/9.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports10.qa.png" group-title="Sports",beIN Sports 10 HD
+http://magco.rip/live/41246671289321/41604451921808/18429.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports11.qa.png" group-title="Sports",beIN Sports 11 HD
+http://magco.rip/live/41246671289321/41604451921808/17088.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports11.qa.png" group-title="Sports",beIN Sports 12 HD
+http://magco.rip/live/41246671289321/41604451921808/17087.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports11.qa.png" group-title="Sports",beIN Sports 13 HD
+http://magco.rip/live/41246671289321/41604451921808/17086.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports11.qa.png" group-title="Sports",beIN Sports 14 HD
+http://magco.rip/live/41246671289321/41604451921808/17085.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports11.qa.png" group-title="Sports",beIN Sports 15 HD
+http://magco.rip/live/41246671289321/41604451921808/23508.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports11.qa.png" group-title="Sports",beIN Sports 16 HD
+http://magco.rip/live/41246671289321/41604451921808/23507.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="Abu Dhabi Sports ARB" tvg-name="Abu Dhabi Sports ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Sports",Abu Dhabi Sports 1
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
