@@ -51,8 +51,6 @@ http://api.new.livestream.com/accounts/23202872/events/7200883/live.m3u8
 http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:-1 group-title="English",VoA TV
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
-#EXTINF:-1 group-title="USA",NBC Sports net.
-http://vvn.neoredi.com/iptv/ch3516?code=170140343781561&key=50917
 
 
 
@@ -68,9 +66,8 @@ http://vvn.neoredi.com/iptv/ch3516?code=170140343781561&key=50917
 
 
 
-
-
-
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c0/8b/15/c08b1501733186639fb2d80ae089cc55.jpg",Star Gold Select HD
+http://tv.ebox.live:8080/live/star-gold-select.m3u8
 #EXTINF:-1 group-title="English",GOD TV
 https://zypelive-lh.akamaihd.net/i/default_1@710958/master.m3u8
 #EXTINF:-1 group-title="English",Gospel Truth TV
@@ -705,17 +702,21 @@ http://livecdnh3.tvanywhere.ae/hls/duck/index.m3u8
 https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 tvg-logo="https://digitalrussia.tv/upload/files/48266978_525772611258059_7076947931516895232_n.png" group-title="Kids",FAN TV
 http://195.9.195.3:8080/hls/157239.m3u8
+#EXTINF:-1 ch-id="NICK (UK)" tvg-logo="https://cdn.collider.com/wp-content/uploads/2015/01/nickelodeon-logo-slice.jpg" group-title="Kids",(EUROPE) 
+http://magco.rip/live/41246671289321/41604451921808/48825.m3u8 
 
+#EXTINF:-1 ch-id="DISCOVERY REAL TIME (ZA)" tvg-logo="https://2.bp.blogspot.com/-RT2w91jSwtk/W41zMLGBPcI/AAAAAAABPug/dywx3kTBcKAFGtIqXz3OOkG8KUCZLwB8gCLcBGAs/s1600/REAL%2BTIME%2BLOGO%255B1%255D.png" group-title="Learning",real time
+http://magco.rip/live/41246671289321/41604451921808/79013.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NatGeoWild.us.png" group-title="Learning",National Geo Wild
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/03.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/NatGeo.uk.png" group-title="Learning",National Geo
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/03.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/InvestigationDiscovery.us.png" group-title="Learning",Investigation Discovery
-http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
+https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/DiscoveryScience.au.png" group-title="Learning",Discovery Science
-http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
+http://magco.rip/live/41246671289321/41604451921808/79017.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/DiscoveryTurbo.au.png" group-title="Learning",Discovery Turbo
-http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
+http://streamidvo.multitvsolution.in//live//TurboEng-a//p1.m3u8 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/NatGeoPeople.id.png" group-title="Learning",National Geo People
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/03.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/DocuBox.pl.png" group-title="Learning",Docubox
@@ -734,6 +735,42 @@ http://203.154.243.31:15001
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/DiscoveryChannel.us.png" group-title="Learning",Discovery
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery-avc1_2499968=13-Discovery-mp4a_98800_eng=5.m3u8
 
+#EXTINF:-1 ch-id="MTV (ZA)" tvg-logo="https://media.graytvinc.com/images/810*455/MTV-logo_720.jpg" group-title="ENGLISH LIVE",MTV 
+http://magco.rip/live/41246671289321/41604451921808/79010.m3u8 
+#EXTINF:-1 ch-id="MTV (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/787px-MTV_Live_HD_2017_logo.svg.png" group-title="ENGLISH LIVE",MTV UK 
+http://magco.rip/live/41246671289321/41604451921808/85468.m3u8 
+#EXTINF:-1 ch-id="TLC HD (ME)" tvg-logo="https://s3-eu-west-1.amazonaws.com/discovery-assets-production/app/uploads/2019/04/03130707/logo-tlc-hd-300x160.jpg" group-title="ENGLISH LIVE",TLC HD 
+http://magco.rip/live/41246671289321/41604451921808/86605.m3u8 
+#EXTINF:-1 ch-id="COLORS (UK)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/19/Colorstv-logo-black-background.jpg" group-title="ENGLISH LIVE",COLORS UK 
+http://xeex.iptvs.news:8080/nx3denizcicek/09042020dc/87537
+#EXTINF:-1 ch-id="STAR PLUS HD (IN)" tvg-logo="https://www.logolynx.com/images/logolynx/s_53/53e5e5654ae3a7198b85219d65ff52e9.jpeg" group-title="HINDI LIVE",STAR PLUS 
+http://magco.rip/live/41246671289321//41604451921808/65361.m3u8 
+#EXTINF:-1 ch-id="ZEE TV (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="HINDI LIVE",ZEE TV UK 
+http://z5amshls.akamaized.net/zeetvsduk/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 ch-id="TATA SKY (IND)" tvg-logo="https://content.jdmagicbox.com/comp/pune/k7/020pxx20.xx20.110811184247.a9k7/catalogue/tata-sky-zone-kothrud-pune-dth-tv-broadcast-service-providers-nj3cp.jpg" group-title="HINDI LIVE",ZEE 
+http://175.41.46.16:8081/hls/6.m3u8
+#EXTINF:-1 ch-id="STAR MOVIES HD (IND)" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/55fb00a28ead0e79178b5c98/1565806465261/2982c79ea663967de3023f10721f4d5d.jpg" group-title="ENGLISH LIVE",STAR MOVIES 
+http://175.41.46.16:8081/hls/2.m3u8
+#EXTINF:-1 ch-id="STAR GOLD HD (IND)" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/fb87a431667615.Y3JvcCwxOTA5LDE0OTMsNiwxNjI.png" group-Title="HINDI LIVE",STAR GOLD
+http://ddn.amrbd.com:8081/live/stargold/playlist.m3u8 
+#EXTINF:-1 ch-id="ZING (IND)" tvg-logo="https://pbs.twimg.com/profile_images/1031870066504003584/rs8Z6JhY_400x400.jpg" group-title="HINDI LIVE",ZING 
+http://103.144.200.7:8080/hls/zing/index.m3u8
+#EXTINF:-1 ch-id="ZEE TV HD (ME)" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/ImageRightsManagment_ChannelLogo/CMqUe8No.png" group-title="HINDI LIVE",ZEE TV HD 
+http://z5amshls.akamaized.net/ztvme/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 ch-id="HBO (ASIA)" tvg-logo="https://www.listofbestmovies.com/wp-content/uploads/2019/07/hbo-png_404159.png" group-title="ENGLISH LIVE",HBO ASIA 
+http://136.243.177.164/HBO/playlist.m3u8 
+#EXTINF:-1 ch-id="BOLLYWOOD TV (USA)" tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22667/bollywood-tv/thumbv_20191205_011236.jpg" group-title="HINDI LIVE",BOLLYWOOD TV 
+http://a.jsrdn.com/broadcast/d5b45/+0000/low/c.m3u8 
+#EXTINF:-1 ch-id="CARTOON NATWORK (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="ENGLISH LIVE",CARTOON NETWORK 
+http://125.209.99.45:43568/BRN/CartoonNetwork.stream/chunklist_w903275600.m3u8
+#EXTINF:-1 ch-id="FOOD FOOD (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/16/Food_Food.jpg" group-title="HINDI LIVE",FOOD FOOD
+https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 ch-id="NHK WORLD (JP)" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/b/b5/NHK_World_%282015-.n.v.%29.png" group-title="ENGLISH LIVE",NHK WORLD JAPAN 
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8 
+#EXTINF:-1 ch-id="MTV (USA)" tvg-logo="https://media.graytvinc.com/images/810*455/MTV-logo_720.jpg" group-title="ENGLISH LIVE",MTV USA 
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 ch-id="AND TV HD (IND)" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/08/TV-HD-1-2.jpg" group-title="HINDI LIVE",AND TV HD 
+http://45.120.188.76:8080/0.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/movie-star-png.png" group-title="Movies",Star Movies
