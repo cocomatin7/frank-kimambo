@@ -396,8 +396,8 @@ https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Entertainment",IN Colors HD
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
-#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema.png?raw=true" group-title="Entertainment", Zee Cin
-http://tv.flametv.design/bhosdike/zeee.m3u8?c=out/v1/14c290cdde854265b74f78b102f6ecd8
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema.png?raw=true" group-title="Entertainment", Zee Cinema
+https://tv.flametv.design/bhosdike/zeee.m3u8?c=out/v1/14c290cdde854265b74f78b102f6ecd8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/HGTV.ca.png" group-title="Entertainment",HGTV
 https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV-avc1_2499968=12-HGTV-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-id="n/a"  tvg-logo="" group-title="Entertainment", Star Gold
@@ -433,9 +433,9 @@ http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Entertainment",IN/Music Zee ETC
  http://bolly360.xyz:80/zee.php?c=etc
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.googleapis.com/drive/v3/files/1C3H1rpuQosfXgHwk_X4X_YRBl151rIUl?alt=media&key=AIzaSyCBCEkxRT6ylhJS4XTS3-iy0zA0Y9UzV8E" group-title="Entertainment", Zee TV 
-http://tv.flametv.design/bhosdike/zeee.m3u8?c=zeetvhd
+https://tv.flametv.design/bhosdike/zeee.m3u8?c=zeetvhd
 #EXTINF:-1 tvg-id="Andtv HD" tvg-logo="https://www.googleapis.com/drive/v3/files/1EA0AyGmJA_l5UdaaEM8SOR1WzjPxjjM-?alt=media&key=AIzaSyCBCEkxRT6ylhJS4XTS3-iy0zA0Y9UzV8E" group-title="Entertainment", &TV HD
-http://tv.flametv.design/bhosdike/zeee.m3u8?c=andtvhd
+https://tv.flametv.design/bhosdike/zeee.m3u8?c=andtvhd
 #EXTINF:-1 tvg-logo="https://www.startv.com/media/3350/star-bharat-hd_800x600.png" group-title="Entertainment",Star Bharat HD
 http://starbharat-i.akamaihd.net/hls/live/569933/starbharat/master_1800.m3u8
 #EXTINF:-1 tvg-logo="https://www.startv.com//3/star-bharat-hd_800x600.png" group-title="Entertainment",Star Utsav HD
