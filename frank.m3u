@@ -441,7 +441,7 @@ http://starbharat-i.akamaihd.net/hls/live/569933/starbharat/master_1800.m3u8
 #EXTINF:-1 tvg-logo="https://www.startv.com//3/star-bharat-hd_800x600.png" group-title="Entertainment",Star Utsav HD
 http://starutsav-i.akamaihd.net/hls/live/569923-b/starutsav/master_1200.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
 #EXTINF:0 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png"  group-title="Entertainment",zing
-http://bolly360.xyz:80/zee.php?c=zing
+http://103.144.200.7:8080/hls/zing/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/9XOEnglishMusicTelevisionChannelLogo.jpg" group title="Entertainment", 9X O 
 http://bolly360.xyz:80/zee.php?c=9xo
 #EXTINF:0 tvg-logo="http://smartsolutionpteltd.com/tv/images/36523_bollywood-hd-2.jpg" group-title="Entertainment", prime HD 
