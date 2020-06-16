@@ -439,7 +439,7 @@ http://z5amshls.akamaized.net/zeetvhd/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.googleapis.com/drive/v3/files/1C3H1rpuQosfXgHwk_X4X_YRBl151rIUl?alt=media&key=AIzaSyCBCEkxRT6ylhJS4XTS3-iy0zA0Y9UzV8E" group-title="Entertainment", Zee TV USA
 http://z5amshls.akamaized.net/ztvhdusa/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.googleapis.com/drive/v3/files/1C3H1rpuQosfXgHwk_X4X_YRBl151rIUl?alt=media&key=AIzaSyCBCEkxRT6ylhJS4XTS3-iy0zA0Y9UzV8E" group-title="Entertainment", Zee TV UK
-http://z5amshls.akamaized.net/ztvhdusa/playlist.m3u8
+http://z5amshls.akamaized.net/ztvhduk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Andtv HD" tvg-logo="https://www.googleapis.com/drive/v3/files/1EA0AyGmJA_l5UdaaEM8SOR1WzjPxjjM-?alt=media&key=AIzaSyCBCEkxRT6ylhJS4XTS3-iy0zA0Y9UzV8E" group-title="Entertainment", &TV HD
 http://z5amshls.akamaized.net/andtvhd/playlist.m3u8
@@ -456,7 +456,7 @@ http://23.186.192.55:8080/live/primeplus/index.m3u8
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema.png?raw=true" group-title="Entertainment", Zee Cinema UK 
 http://z5amshls.akamaized.net/cinemauk/playlist.m3u8
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema.png?raw=true" group-title="Entertainment", Zee Cinema USA 
-http://z5amshls.akamaized.net/cinemauk/playlist.m3u8
+http://z5amshls.akamaized.net/cinemausa/playlist.m3u8
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema.png?raw=true" group-title="Entertainment", Zee Cinema ME 
 http://tv.flametv.design/zeee.m3u8?c=ztvme
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema.png?raw=true" group-title="Entertainment", Zee Cinema HD
