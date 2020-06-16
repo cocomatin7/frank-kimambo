@@ -431,9 +431,14 @@ http://109.231.229.37:3401/voxafuk/voxafhlsout/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://wfc.tv/images/Logo-WF.png" group-title="Entertainment",World Fashion TV 
 http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Entertainment",IN/Music Zee ETC
-http://bolly360.xyz:80/zee.php?c=etc
+http://z5amshls.akamaized.net/etc/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.googleapis.com/drive/v3/files/1C3H1rpuQosfXgHwk_X4X_YRBl151rIUl?alt=media&key=AIzaSyCBCEkxRT6ylhJS4XTS3-iy0zA0Y9UzV8E" group-title="Entertainment", Zee TV 
 http://z5amshls.akamaized.net/zeetvhd/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.googleapis.com/drive/v3/files/1C3H1rpuQosfXgHwk_X4X_YRBl151rIUl?alt=media&key=AIzaSyCBCEkxRT6ylhJS4XTS3-iy0zA0Y9UzV8E" group-title="Entertainment", Zee TV USA
+http://z5amshls.akamaized.net/ztvhdusa/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.googleapis.com/drive/v3/files/1C3H1rpuQosfXgHwk_X4X_YRBl151rIUl?alt=media&key=AIzaSyCBCEkxRT6ylhJS4XTS3-iy0zA0Y9UzV8E" group-title="Entertainment", Zee TV UK
+http://z5amshls.akamaized.net/ztvhdusa/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Andtv HD" tvg-logo="https://www.googleapis.com/drive/v3/files/1EA0AyGmJA_l5UdaaEM8SOR1WzjPxjjM-?alt=media&key=AIzaSyCBCEkxRT6ylhJS4XTS3-iy0zA0Y9UzV8E" group-title="Entertainment", &TV HD
 http://z5amshls.akamaized.net/andtvhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.startv.com/media/3350/star-bharat-hd_800x600.png" group-title="Entertainment",Star Bharat HD
@@ -447,9 +452,9 @@ http://bolly360.xyz:80/zee.php?c=9xo
 #EXTINF:0 tvg-logo="http://smartsolutionpteltd.com/tv/images/36523_bollywood-hd-2.jpg" group-title="Entertainment", prime HD 
 http://23.186.192.55:8080/live/primeplus/index.m3u8
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema.png?raw=true" group-title="Entertainment", Zee Cinema UK 
-http://tv.flametv.design/zeee.m3u8?c=zeetvsduk
+http://z5amshls.akamaized.net/cinemauk/playlist.m3u8
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema.png?raw=true" group-title="Entertainment", Zee Cinema USA 
-http://tv.flametv.design/zeee.m3u8?c=ztvhdusa
+http://z5amshls.akamaized.net/cinemauk/playlist.m3u8
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema.png?raw=true" group-title="Entertainment", Zee Cinema ME 
 http://tv.flametv.design/zeee.m3u8?c=ztvme
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema.png?raw=true" group-title="Entertainment", Zee Cinema HD
@@ -826,7 +831,8 @@ http://cdnak8.cast4u.info/channels/2/10802.m3u8
 https://1648401168.rsc.cdn77.org/1648401168/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="Movies",FILM BOX ARTHOUSE
 https://1949337293.rsc.cdn77.org/1949337293/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.iptv-epg.com/id/AXN.id.png" group-title="Movies", AXN ASIA 
+http://210.210.155.66/h/h141/01.m3u8 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports1.qa.png" group-title="Movies",beIN Movies 1 HD
 http://magco.rip/live/41246671289321/41604451921808/87396.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports1.qa.png" group-title="Movies",beIN Movies 2 HD
@@ -863,12 +869,11 @@ https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdn
 https://sony247channels.akamaized.net/hls/live/2004806/SONYESPNSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
 #EXTINF:-1 tvg-logo="https://www.mediainfoline.com/wp-content/uploads/2017/07/DSPORTS-LOGO.jpg" group-title="Sports",D Sports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
-#EXTINF:-1 tvg-logo="https://www.shaamtv.com/images/25.jpg" group-title="Sports",PTV Sports
-http://95.211.211.168/live/ptvsports2002/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.shaamtv.com/images/25.jpg" group-title="Sports",PTV Sports
-http://livetv.colorsbd.com:8081/hdcrictv/ctg_ptvsports/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.shaamtv.com/images/25.jpg" group-title="Sports",PTV Sports
-http://43.251.86.2:8080/hls/channel_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2015/01/28/ten_sports%20logo.jpg?itok=Tkia_uJ3" group-title="Sports",TEN SPORTS 
+http://125.209.99.45:43568/BRN/TenSports.stream/chunklist_w1876894388.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.mediainfoline.com/wp-content/uploads/2017/07/DSPORTS-LOGO.jpg" group-title="Sports",D Sports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sports",beIN Sports Asia 1
@@ -877,6 +882,8 @@ http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
 https://cdn-laos.workpoint.news/sd-foxsports_480/index.m3u8
 #EXTINF:-1 tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="Sports",Fox Sports 2 
 https://cdn-laos.workpoint.news/sd-foxsports2_480/index.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsNews.uk.png" group-title="Sports",Sky Sports News 
+https://cdn-laos.workpoint.news/uk-skysports-news_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Sports",Fox Sports 3
 https://cdn-laos.workpoint.news/sd-foxsports3_480/index.m3u8 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsCricket.uk.png" group-title="Sports",Sky Sports Cricket
@@ -924,7 +931,8 @@ http://magco.rip/live/41246671289321/41604451921808/17085.m3u8
 http://magco.rip/live/41246671289321/41604451921808/23508.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports11.qa.png" group-title="Sports",beIN Sports 16 HD
 http://magco.rip/live/41246671289321/41604451921808/23507.m3u8
-
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/446590946872799232/sLRxtI7j_400x400.png" group-title="Sports" ,PTV SPORTS 
+http://95.211.211.168/live/ptvsports2002/playlist.m3u8
 
 
 
@@ -979,6 +987,10 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 http://188.93.95.34:80/setanta_georgia/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/ie/SetantaEurasiaPlusRu.ie.png" group-title="Sports",Setanta Sports +
 http://188.93.95.34:80/setanta_sports_plus_georgia/index.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsNews.uk.png" group-title="Sports",Sky Sports News 
+https://cdn-laos.workpoint.news/uk-skysports-news_480/index.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsGolf.uk.png" group-title="Sports",Sky Sports Golf 
+https://cdn-laos.workpoint.news/uk-skysports-golf_720/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/SkySportsAction.uk.png" group-title="Sports",Sky Sports Action
 https://cdn-laos.workpoint.news/uk-skysports-action_720/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/SkySportsArena.uk.png" group-title="Sports",Sky Sports Arena
@@ -988,7 +1000,7 @@ https://cdn-laos.workpoint.news/uk-skysports-mix_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/SkySportsF1.uk.png" group-title="Sports",Sky Sports F1
 https://cdn-laos.workpoint.news/uk-skysports-f1_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/SkySportsSports.uk.png" group-title="Sports",Sky Sports Sports
-https://cdn-laos.workpoint.news/uk-skysports-Sports_720/index.m3u8
+https://cdn-laos.workpoint.news/uk-skysports-Sports_480/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/SkySportsPremiereLeague.uk.png" group-title="Sports",Sky Sports EPL
 https://cdn-laos.workpoint.news/uk-skysports-epl_720/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/SkySportsFootball.uk.png" group-title="Sports",Sky Sports Football
