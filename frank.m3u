@@ -510,6 +510,9 @@ http://z5amshls.akamaized.net/ztvhduk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Andtv HD" tvg-logo="https://www.googleapis.com/drive/v3/files/1EA0AyGmJA_l5UdaaEM8SOR1WzjPxjjM-?alt=media&key=AIzaSyCBCEkxRT6ylhJS4XTS3-iy0zA0Y9UzV8E" group-title="Entertainment", &TV HD
 http://z5amshls.akamaized.net/andtvhd/playlist.m3u8
+#EXTINF:-1 tvg-id="Andtv HD" tvg-logo="https://www.googleapis.com/drive/v3/files/1EA0AyGmJA_l5UdaaEM8SOR1WzjPxjjM-?alt=media&key=AIzaSyCBCEkxRT6ylhJS4XTS3-iy0zA0Y9UzV8E" group-title="Entertainment", &TV HD
+http://z5amshls.akamaized.net/andtvhdusa/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.startv.com/media/3350/star-bharat-hd_800x600.png" group-title="Entertainment",Star Bharat HD
 http://starbharat-i.akamaihd.net/hls/live/569933/starbharat/master_1800.m3u8
 #EXTINF:-1 tvg-logo="https://www.startv.com//3/star-bharat-hd_800x600.png" group-title="Entertainment",Star Utsav HD
@@ -784,9 +787,7 @@ http://45.120.188.76:8080/0.ts
 
 
 #EXTINF:-1 ch-id="HBO HD (IN)" tvg-logo="https://i.ytimg.com/vi/BPz7GwV1Zuk/maxresdefault.jpg" group-title="Movies",HBO 
-http://dc-4ae917858487.a6tv.biz:8080/yuYUVgxvRG/tPTyUJTs4r/21255.m3u8
-#EXTINF:-1 ch-id="HBO HD (IN)" tvg-logo="https://i.ytimg.com/vi/BPz7GwV1Zuk/maxresdefault.jpg" group-title="Movies",HBO INDIA
-http://sansat.net:25461/027070044405/V9Jm9EBhFw/54423.m3u8
+http://m3ulink.com:7899/iamhakimziyech1/elton1994/2455
 #EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/movie-star-png.png" group-title="Movies",Star Movies
 http://tv.profipanel.itv.world:8080/7z5kwph3hch/x38g59q6e6/3981.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MGM.us.png" group-title="Movies",MGM Scifi
@@ -834,12 +835,8 @@ https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_142
 http://ott.artmott.com/FILMBOXEXTRA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/cz/FilmboxPlus.cz.png" group-title="Movies",Filmbox Plus
 http://ott.artmott.com/FILMBOXPLUS/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="Movies",HBO
-http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="Movies",HBO
-http://103.231.228.229/hls/HDMI-EARTEL3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="Movies",HBO
-https://delivery.macan.live/stream/hbo/index.m3u8?token=gratisan
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280.svg.png" group-title="Movies",USA NETWORK
+http://m3ulink.com:7899/iamhakimziyech1/elton1994/892
 #EXTINF:-1 ch-id="Fox Action Movies" tvg-logo="https://brandslogo.net/wp-content/uploads/2017/06/fox-movies-logo.png" group-title="Movies",Fox Movies
 https://cdn-laos.workpoint.news/hd-foxpremium_720/index.m3u8
 #EXTINF:-1 ch-id="Fox Action Movies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXActionMovies.png" group-title="Movies" ,Fox Action Movies
